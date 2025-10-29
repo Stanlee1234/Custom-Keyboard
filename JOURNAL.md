@@ -12,7 +12,7 @@ I watched a few videos on how to use Ergogen and also on keyboard design + KiCAD
 
 ![Screenshot 2025-10-19 at 11.29.53.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--398021d56bf496994aedbdaa0ae2712ea558942f/Screenshot%202025-10-19%20at%2011.29.53.png)
 
-It's not the best but it will work. I also found all the parts needed and found out that I need to do a lot of soldering for this project, but thats fine. Anyways... Bye!  
+It's not the best but it will work. I also found some of the parts needed and found out that I need to do a lot of soldering for this project, but thats fine. Anyways... Bye!  
 
 ## 10/28/2025 - Switching Ideas; New approach  
 
