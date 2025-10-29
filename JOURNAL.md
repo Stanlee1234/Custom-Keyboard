@@ -14,7 +14,7 @@ I watched a few videos on how to use Ergogen and also on keyboard design + KiCAD
 
 It's not the best but it will work. I also found all the parts needed and found out that I need to do a lot of soldering for this project, but thats fine. Anyways... Bye!  
 
-## 10/28/2025 - Switched ideas  
+## 10/28/2025 - Switching Ideas; New approach  
 
 Well, I guess I'm changing things up a little bit. Now, I am just working in Ki-CAD, because it is too hard to design a keyboard with my needs in Ergogen. I switched to just working in Ki-CAD, with some work done:
 ![Screenshot 2025-10-28 at 21.32.15](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--2d0e277e8223dbc4edece8860e40e3c03af1715d/Screenshot%202025-10-28%20at%2021.32.15.png)
