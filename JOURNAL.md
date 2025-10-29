@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Custom Split+Attach Keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/722).
-
-
 ## 10/19/2025 - Started on the project!  
 
 I watched a few videos on how to use Ergogen and also on keyboard design + KiCAD. Ergogen is keyboard PCB designer. Currently, this is the layout for the left part of the keyboard:
@@ -17,4 +13,12 @@ I watched a few videos on how to use Ergogen and also on keyboard design + KiCAD
 ![Screenshot 2025-10-19 at 11.29.53.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--398021d56bf496994aedbdaa0ae2712ea558942f/Screenshot%202025-10-19%20at%2011.29.53.png)
 
 It's not the best but it will work. I also found all the parts needed and found out that I need to do a lot of soldering for this project, but thats fine. Anyways... Bye!  
+
+## 10/28/2025 - Switched ideas  
+
+Well, I guess I'm changing things up a little bit. Now, I am just working in Ki-CAD, because it is too hard to design a keyboard with my needs in Ergogen. I switched to just working in Ki-CAD, with some work done:
+![Screenshot 2025-10-28 at 21.32.15](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--2d0e277e8223dbc4edece8860e40e3c03af1715d/Screenshot%202025-10-28%20at%2021.32.15.png)
+ I also want to get a result basically super similar to this: 
+![Screenshot 2025-10-28 at 21.27.20](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--2df52ff811e240790867a294a86b79e561426b63/Screenshot%202025-10-28%20at%2021.27.20.png)
+Anyways, I gotta go sleep. Bye!  
 
