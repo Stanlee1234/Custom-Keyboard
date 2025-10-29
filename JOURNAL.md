@@ -18,7 +18,7 @@ It's not the best but it will work. I also found all the parts needed and found 
 
 Well, I guess I'm changing things up a little bit. Now, I am just working in Ki-CAD, because it is too hard to design a keyboard with my needs in Ergogen. I switched to just working in Ki-CAD, with some work done:
 ![Screenshot 2025-10-28 at 21.32.15](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--2d0e277e8223dbc4edece8860e40e3c03af1715d/Screenshot%202025-10-28%20at%2021.32.15.png)
- I also want to get a result basically super similar to this: 
+ Also I just borrowed the XIAO from the guide because I felt that would be the best one to use. I also want to get a result basically super similar to this: 
 ![Screenshot 2025-10-28 at 21.27.20](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--2df52ff811e240790867a294a86b79e561426b63/Screenshot%202025-10-28%20at%2021.27.20.png)
 Anyways, I gotta go sleep. Bye!  
 
